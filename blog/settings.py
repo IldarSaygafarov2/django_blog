@@ -27,7 +27,9 @@ DEBUG = True
 
 # http://texnomart.uz - домен
 # https://texnomart.uz - домен
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'djangoblog1400.pythonanywhere.com'
+]
 # localhost:8000
 # 127.0.0.1:8000
 
